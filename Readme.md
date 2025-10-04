@@ -1,6 +1,6 @@
 # Random Ideas API
 
-Random Ideas API is a simple Node.js and Express-based API that allows users to fetch and view creative ideas. This project is designed as a starting point for building an idea-sharing application.
+Random Ideas API is a simple Node.js and Express-based API that allows users to fetch and view creative ideas. This project is designed as a starting point for building an idea-sharing application.This is still work in progress
 
 ## Features
 
@@ -11,11 +11,14 @@ Random Ideas API is a simple Node.js and Express-based API that allows users to 
 ## Endpoints
 
 ### 1. Welcome Endpoint
+
 **GET /**  
-Returns a welcome message.  
+Returns a welcome message.
 
 **Response:**
+
 ```json
 {
   "message": "Welcome to the Random Ideas API"
 }
+```
